@@ -1,1 +1,1 @@
-первая работа в гит
+print("Hello, python")
